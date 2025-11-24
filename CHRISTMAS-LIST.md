@@ -1,5 +1,7 @@
 # My Christmas List 🎄
 
+Fill in the sections below with your gift ideas! Feel free to add, remove, or reorganize categories as needed.
+
 ## Gift Ideas
 
 ### High Priority
